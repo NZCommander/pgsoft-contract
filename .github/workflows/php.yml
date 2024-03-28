@@ -25,7 +25,7 @@ jobs:
       uses: actions/cache@v3
       with:
         path: vendor
-        key: ${{ runner.os }}-php-${{ hashFiles('**/composer.lock') }}
+        key: ${{ runner.os }}-php-${{ hashFiles('https://github.com/users/NZCommander/projects/1/views/1?pane=info&statusUpdateId=15875') }}
         restore-keys: |
           ${{ runner.os }}-php-
 
