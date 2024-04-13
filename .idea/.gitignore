@@ -5,4 +5,4 @@
 /dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
-/httpRequests/https://github.com/users/NZCommander/projects/1/views/1?pane=info&statusUpdateId=15875
+/httpRequests/https://github.com/users/NZCommander/projects/1/views/1pane=info&statusUpdateId=15875
